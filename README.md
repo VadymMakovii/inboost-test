@@ -12,6 +12,8 @@
 
 # Main application features
 
+1. Create nodes
+
 # Author
 
 Vadym Makovii
