@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/abyss-ts-task/static/css/main.073c9b0a.css",
-    "main.js": "/abyss-ts-task/static/js/main.655599aa.js",
-    "static/js/787.964bcc4c.chunk.js": "/abyss-ts-task/static/js/787.964bcc4c.chunk.js",
-    "static/media/logo.svg": "/abyss-ts-task/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/abyss-ts-task/index.html",
-    "main.073c9b0a.css.map": "/abyss-ts-task/static/css/main.073c9b0a.css.map",
-    "main.655599aa.js.map": "/abyss-ts-task/static/js/main.655599aa.js.map",
-    "787.964bcc4c.chunk.js.map": "/abyss-ts-task/static/js/787.964bcc4c.chunk.js.map"
+    "main.css": "/inboost-test/static/css/main.073c9b0a.css",
+    "main.js": "/inboost-test/static/js/main.39952009.js",
+    "static/js/787.964bcc4c.chunk.js": "/inboost-test/static/js/787.964bcc4c.chunk.js",
+    "static/media/logo.svg": "/inboost-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/inboost-test/index.html",
+    "main.073c9b0a.css.map": "/inboost-test/static/css/main.073c9b0a.css.map",
+    "main.39952009.js.map": "/inboost-test/static/js/main.39952009.js.map",
+    "787.964bcc4c.chunk.js.map": "/inboost-test/static/js/787.964bcc4c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.655599aa.js"
+    "static/js/main.39952009.js"
   ]
 }
