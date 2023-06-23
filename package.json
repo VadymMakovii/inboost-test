@@ -2,7 +2,7 @@
   "name": "inboost-test",
   "version": "0.1.0",
   "author": "Vadym Makovii",
-  "homepage": "https://vadymmakovii.github.io/abyss-ts-task/",
+  "homepage": "https://vadymmakovii.github.io/inboost-test/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
