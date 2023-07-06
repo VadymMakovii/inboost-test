@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/inboost-test/static/css/main.073c9b0a.css",
-    "main.js": "/inboost-test/static/js/main.39952009.js",
-    "static/js/787.964bcc4c.chunk.js": "/inboost-test/static/js/787.964bcc4c.chunk.js",
-    "static/media/logo.svg": "/inboost-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/inboost-test/static/css/main.4c3abc94.css",
+    "main.js": "/inboost-test/static/js/main.2d03557b.js",
     "index.html": "/inboost-test/index.html",
-    "main.073c9b0a.css.map": "/inboost-test/static/css/main.073c9b0a.css.map",
-    "main.39952009.js.map": "/inboost-test/static/js/main.39952009.js.map",
-    "787.964bcc4c.chunk.js.map": "/inboost-test/static/js/787.964bcc4c.chunk.js.map"
+    "main.4c3abc94.css.map": "/inboost-test/static/css/main.4c3abc94.css.map",
+    "main.2d03557b.js.map": "/inboost-test/static/js/main.2d03557b.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.39952009.js"
+    "static/css/main.4c3abc94.css",
+    "static/js/main.2d03557b.js"
   ]
 }
